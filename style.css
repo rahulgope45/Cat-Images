@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(47, 116, 93);
+    margin: 0px;
+    padding: 0px;
+}
+
+#catbuttondiv{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#buttonofcat{
+    background-color: #d2a551;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+   
+}
+
+#buttonofcat:hover{
+    background-color: #ae7f28;
+}
