@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(47, 116, 93);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#catImagediv{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  padding-top: 2rem;
+  gap: 1rem;
+
+}
+
+#catbuttondiv{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+#catkaimg{
+    height: 50vh;
+    width: 50vh;
+}
+#catkaimg2{
+    height: 50vh;
+    width: 50vh;
+}
+
+#buttonofcat{
+    background-color: #d2a551;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+   
+}
+
+#buttonofcat:hover{
+    background-color: #ae7f28;
+}
+
